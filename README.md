@@ -36,10 +36,10 @@ Developer fullstack
 --- 
 
 ### 🏆 GitHub Profile Trophy
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
   <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
+    href="https://github.com/fdutraww/github-profile-trophy"
     title="repositório de troféus"
   >
     <img
