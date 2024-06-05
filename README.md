@@ -34,10 +34,11 @@ Developer fullstack
 </table>
 
 --- 
-
+<!--
 ### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=fdutra22)](https://github.com/fdutra22/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=fdutra22)](https://github.com/fdutra22/github-profile-trophy)
+-->
 ---
 
 <div align="center">
