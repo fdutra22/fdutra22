@@ -36,18 +36,7 @@ Developer fullstack
 --- 
 
 ### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="center">
-  <a
-    href="https://github.com/fdutraww/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=fdutra22&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=fdutra22)](https://github.com/fdutra22/github-profile-trophy)
 
 ---
 
