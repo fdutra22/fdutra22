@@ -3,7 +3,15 @@
 Developer fullstack
 
 
-## ⭐ GitHub Stats
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C# | Php | Java 
+- 🌐 &nbsp; Android | IOS | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Sql Server | SQLite
+- 🔧 &nbsp; Visual Studio 2022 | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Docker | IIs | NGInx | MAUI
+
+<br>
 ### ⚙️ GitHub Analytics
 
 <table>
