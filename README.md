@@ -5,7 +5,7 @@ Developer fullstack
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | Php | Java 
+- 💻 &nbsp; C# | Php | Java | GO
 - 🌐 &nbsp; Android | IOS | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Sql Server | SQLite
 - 🔧 &nbsp; Visual Studio 2022 | Visual Studio code | Eclipse | Git
