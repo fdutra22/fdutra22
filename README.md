@@ -46,7 +46,7 @@ Developer fullstack
 ### 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fdutra22)](https://github.com/fdutra22/github-profile-trophy)
--->
+
 ---
 
 <div align="center">
@@ -59,3 +59,4 @@ Developer fullstack
     alt="Número de visitantes no perfil"
   />
 </p>
+-->
